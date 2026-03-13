@@ -1,0 +1,322 @@
+,Skater,Component,J1,J2,J3,J4,J5,J6,J7,J8,J9,Panel_Avg,Gender,Competition,Season,Segment
+0,Kevin AYMOZ,Composition,9.0,9.0,9.25,8.5,9.0,9.5,9.25,9.5,9.5,9.21,Men,Allen,2024,Free Skate
+1,Kevin AYMOZ,Presentation,9.25,9.0,9.5,8.75,9.5,9.25,9.5,9.5,9.5,9.36,Men,Allen,2024,Free Skate
+2,Kevin AYMOZ,Skating Skills,9.0,8.75,9.25,9.0,9.5,8.75,8.75,9.0,9.5,9.04,Men,Allen,2024,Free Skate
+3,Ilia MALININ,Composition,8.75,8.75,8.75,8.75,8.75,9.0,9.5,9.0,8.75,8.82,Men,Allen,2024,Free Skate
+4,Ilia MALININ,Presentation,8.5,8.5,9.0,8.75,8.75,9.25,9.5,9.25,8.75,8.89,Men,Allen,2024,Free Skate
+5,Ilia MALININ,Skating Skills,8.5,8.75,8.75,9.0,8.5,9.0,9.0,9.25,8.5,8.79,Men,Allen,2024,Free Skate
+6,Kao MIURA,Composition,8.5,8.5,8.5,7.75,8.5,8.0,8.5,8.75,8.75,8.46,Men,Allen,2024,Free Skate
+7,Kao MIURA,Presentation,8.5,8.25,8.5,7.75,8.75,8.25,8.5,8.5,8.5,8.43,Men,Allen,2024,Free Skate
+8,Kao MIURA,Skating Skills,8.75,8.75,8.75,8.75,8.75,9.0,8.25,8.5,8.75,8.71,Men,Allen,2024,Free Skate
+9,Nika EGADZE,Composition,8.0,7.75,7.5,8.25,7.75,7.75,8.25,8.0,7.25,7.86,Men,Allen,2024,Free Skate
+10,Nika EGADZE,Presentation,8.0,7.5,7.5,8.5,7.5,7.5,7.75,7.75,7.0,7.64,Men,Allen,2024,Free Skate
+11,Nika EGADZE,Skating Skills,8.25,7.75,7.75,8.75,7.5,7.75,7.75,7.75,7.75,7.82,Men,Allen,2024,Free Skate
+12,Deniss VASILJEVS,Composition,8.75,7.75,8.0,9.0,7.5,8.25,8.25,8.0,8.0,8.14,Men,Allen,2024,Free Skate
+13,Deniss VASILJEVS,Presentation,8.5,8.0,8.25,9.25,8.25,8.5,8.5,8.5,7.75,8.36,Men,Allen,2024,Free Skate
+14,Deniss VASILJEVS,Skating Skills,8.5,7.5,8.0,9.25,8.0,7.75,8.0,8.25,7.75,8.04,Men,Allen,2024,Free Skate
+15,Francois PITOT,Composition,7.5,6.75,7.0,7.0,7.0,7.75,7.25,7.25,7.5,7.21,Men,Allen,2024,Free Skate
+16,Francois PITOT,Presentation,7.25,7.0,7.0,7.25,7.0,7.5,7.0,6.5,7.25,7.11,Men,Allen,2024,Free Skate
+17,Francois PITOT,Skating Skills,7.25,6.75,7.25,7.0,7.25,7.25,7.25,7.25,7.75,7.21,Men,Allen,2024,Free Skate
+18,Maxim NAUMOV,Composition,7.0,7.75,6.75,6.5,6.5,7.25,6.5,7.0,7.25,6.89,Men,Allen,2024,Free Skate
+19,Maxim NAUMOV,Presentation,7.25,7.5,6.5,6.75,6.75,7.75,7.5,7.5,7.25,7.21,Men,Allen,2024,Free Skate
+20,Maxim NAUMOV,Skating Skills,7.25,7.25,6.75,7.0,7.25,7.5,7.25,7.0,7.0,7.14,Men,Allen,2024,Free Skate
+21,Lucas BROUSSARD,Composition,7.25,7.5,7.5,7.0,7.5,8.0,7.5,7.75,7.25,7.46,Men,Allen,2024,Free Skate
+22,Lucas BROUSSARD,Presentation,7.25,7.25,7.25,7.25,7.25,7.5,7.5,7.5,7.25,7.32,Men,Allen,2024,Free Skate
+23,Lucas BROUSSARD,Skating Skills,7.5,7.5,7.25,6.75,7.25,7.5,7.25,7.75,7.5,7.39,Men,Allen,2024,Free Skate
+24,Wesley CHIU,Composition,6.75,6.25,6.75,6.75,6.75,6.0,6.75,7.0,6.75,6.68,Men,Allen,2024,Free Skate
+25,Wesley CHIU,Presentation,6.75,6.0,6.75,6.75,7.0,6.5,7.0,6.5,6.5,6.68,Men,Allen,2024,Free Skate
+26,Wesley CHIU,Skating Skills,7.25,6.75,7.0,7.5,6.75,7.0,7.25,7.25,7.5,7.14,Men,Allen,2024,Free Skate
+27,Koshiro SHIMADA,Composition,7.5,7.5,7.5,7.5,7.5,7.25,7.75,7.25,7.5,7.46,Men,Allen,2024,Free Skate
+28,Koshiro SHIMADA,Presentation,7.25,6.75,7.5,7.0,7.5,6.75,7.0,7.25,7.25,7.14,Men,Allen,2024,Free Skate
+29,Koshiro SHIMADA,Skating Skills,7.5,7.0,7.75,7.75,7.75,7.5,7.25,7.5,7.5,7.54,Men,Allen,2024,Free Skate
+30,Nozomu YOSHIOKA,Composition,6.5,6.5,7.0,7.25,7.0,7.0,7.75,7.5,7.0,7.04,Men,Allen,2024,Free Skate
+31,Nozomu YOSHIOKA,Presentation,6.75,6.5,7.25,7.0,6.75,6.75,7.25,7.25,6.75,6.93,Men,Allen,2024,Free Skate
+32,Nozomu YOSHIOKA,Skating Skills,7.25,6.75,7.25,7.0,7.25,7.5,7.5,7.5,7.0,7.25,Men,Allen,2024,Free Skate
+33,Donovan CARRILLO,Composition,6.75,7.25,7.0,7.0,6.5,7.0,7.0,6.75,7.0,6.93,Men,Allen,2024,Free Skate
+34,Donovan CARRILLO,Presentation,7.0,7.0,7.25,7.0,7.0,7.25,7.25,7.0,7.5,7.11,Men,Allen,2024,Free Skate
+35,Donovan CARRILLO,Skating Skills,7.0,6.75,7.0,6.5,7.25,7.25,6.75,6.75,7.25,6.96,Men,Allen,2024,Free Skate
+0,Wakaba HIGUCHI,Composition,8.25,7.5,7.75,7.75,8.75,7.75,8.0,7.5,7.5,7.79,Women,Allen,2024,Free Skate
+1,Wakaba HIGUCHI,Presentation,8.25,8.25,8.25,7.75,8.25,8.0,8.5,8.0,7.25,8.11,Women,Allen,2024,Free Skate
+2,Wakaba HIGUCHI,Skating Skills,8.5,8.5,8.0,8.5,9.0,8.25,8.5,8.25,8.0,8.36,Women,Allen,2024,Free Skate
+3,Nina PINZARRONE,Composition,8.25,8.0,8.0,8.25,9.0,8.0,8.25,7.75,8.0,8.11,Women,Allen,2024,Free Skate
+4,Nina PINZARRONE,Presentation,7.75,7.75,8.0,8.25,8.5,8.0,7.75,8.0,8.25,8.0,Women,Allen,2024,Free Skate
+5,Nina PINZARRONE,Skating Skills,8.0,7.75,7.5,8.25,8.75,7.75,8.0,7.5,8.0,7.89,Women,Allen,2024,Free Skate
+6,Rinka WATANABE,Composition,8.0,7.75,8.0,8.0,8.75,8.0,8.25,7.5,8.0,8.0,Women,Allen,2024,Free Skate
+7,Rinka WATANABE,Presentation,8.0,8.0,8.0,8.0,8.25,7.75,8.25,7.25,7.75,7.96,Women,Allen,2024,Free Skate
+8,Rinka WATANABE,Skating Skills,8.0,8.25,8.25,8.5,8.75,8.25,8.5,7.75,8.25,8.29,Women,Allen,2024,Free Skate
+9,Yuna AOKI,Composition,7.75,8.0,8.0,7.0,7.5,7.25,7.75,8.5,7.5,7.68,Women,Allen,2024,Free Skate
+10,Yuna AOKI,Presentation,7.75,8.0,8.0,7.0,7.25,7.5,8.25,8.0,7.75,7.75,Women,Allen,2024,Free Skate
+11,Yuna AOKI,Skating Skills,8.0,7.75,7.75,7.5,7.75,7.5,8.25,8.0,7.75,7.79,Women,Allen,2024,Free Skate
+12,Isabeau LEVITO,Composition,8.25,9.0,8.5,8.5,9.25,8.25,7.5,8.75,9.0,8.61,Women,Allen,2024,Free Skate
+13,Isabeau LEVITO,Presentation,8.25,8.75,8.5,8.25,8.75,8.0,7.75,8.5,8.75,8.43,Women,Allen,2024,Free Skate
+14,Isabeau LEVITO,Skating Skills,8.0,8.5,8.25,8.5,9.0,8.25,7.75,8.5,8.5,8.36,Women,Allen,2024,Free Skate
+15,Bradie TENNELL,Composition,8.5,8.25,8.25,8.25,9.0,8.0,7.75,7.5,8.0,8.14,Women,Allen,2024,Free Skate
+16,Bradie TENNELL,Presentation,8.0,8.5,8.5,8.5,8.5,8.0,7.75,8.25,8.25,8.29,Women,Allen,2024,Free Skate
+17,Bradie TENNELL,Skating Skills,8.25,8.0,8.0,8.5,8.75,8.25,8.0,7.75,7.75,8.11,Women,Allen,2024,Free Skate
+18,Elyce LIN-GRACEY,Composition,7.75,7.75,8.0,7.25,8.0,7.75,7.5,7.5,7.25,7.64,Women,Allen,2024,Free Skate
+19,Elyce LIN-GRACEY,Presentation,7.5,7.75,7.25,7.25,7.5,7.5,7.5,7.25,7.5,7.43,Women,Allen,2024,Free Skate
+20,Elyce LIN-GRACEY,Skating Skills,7.5,7.75,7.5,7.75,7.75,7.75,7.75,7.75,7.5,7.68,Women,Allen,2024,Free Skate
+21,Livia KAISER,Composition,7.75,7.5,7.0,7.25,7.25,7.0,7.25,7.5,7.0,7.25,Women,Allen,2024,Free Skate
+22,Livia KAISER,Presentation,7.5,7.25,6.75,7.25,7.0,7.0,7.5,7.25,7.25,7.21,Women,Allen,2024,Free Skate
+23,Livia KAISER,Skating Skills,7.25,7.5,7.25,7.5,7.75,6.75,7.25,7.0,7.0,7.25,Women,Allen,2024,Free Skate
+24,Olga MIKUTINA,Composition,8.0,7.25,7.5,7.5,7.5,7.5,7.5,7.25,7.25,7.43,Women,Allen,2024,Free Skate
+25,Olga MIKUTINA,Presentation,7.75,7.25,7.75,7.0,7.0,7.25,7.25,6.75,7.0,7.21,Women,Allen,2024,Free Skate
+26,Olga MIKUTINA,Skating Skills,7.75,6.75,7.5,7.25,7.25,7.5,7.5,7.25,7.0,7.32,Women,Allen,2024,Free Skate
+27,Lea SERNA,Composition,6.25,7.5,6.5,7.25,7.25,6.5,6.5,6.75,7.25,6.86,Women,Allen,2024,Free Skate
+28,Lea SERNA,Presentation,6.5,7.25,6.5,6.75,6.75,6.75,6.75,6.5,7.0,6.71,Women,Allen,2024,Free Skate
+29,Lea SERNA,Skating Skills,6.5,7.5,6.75,7.25,7.0,6.75,6.75,7.25,7.25,7.0,Women,Allen,2024,Free Skate
+30,Minchae KIM,Composition,7.0,7.25,7.25,6.75,7.5,7.25,6.5,7.25,7.25,7.14,Women,Allen,2024,Free Skate
+31,Minchae KIM,Presentation,7.5,7.25,7.0,6.75,7.0,7.0,6.75,7.0,6.75,6.96,Women,Allen,2024,Free Skate
+32,Minchae KIM,Skating Skills,7.5,7.5,7.25,7.5,7.75,7.25,7.25,7.5,7.75,7.46,Women,Allen,2024,Free Skate
+33,Sofja STEPCENKO,Composition,6.25,6.5,6.5,6.25,6.75,6.5,6.75,6.5,6.75,6.54,Women,Allen,2024,Free Skate
+34,Sofja STEPCENKO,Presentation,6.0,6.75,6.5,6.5,6.5,6.25,6.25,6.0,7.0,6.39,Women,Allen,2024,Free Skate
+35,Sofja STEPCENKO,Skating Skills,6.25,6.75,6.75,6.5,6.75,6.5,6.25,6.5,7.0,6.57,Women,Allen,2024,Free Skate
+0,Ilia MALININ,Composition,7.75,9.0,9.0,8.75,9.0,8.75,8.75,7.5,9.25,8.71,Men,Canada,2024,Free Skate
+1,Ilia MALININ,Presentation,8.5,9.25,9.0,9.25,9.0,8.75,8.5,8.5,9.0,8.86,Men,Canada,2024,Free Skate
+2,Ilia MALININ,Skating Skills,8.25,9.25,8.75,9.0,8.5,8.75,8.75,8.75,9.25,8.82,Men,Canada,2024,Free Skate
+3,Junhwan CHA,Composition,8.5,8.0,8.5,8.25,9.0,8.0,9.25,6.75,8.25,8.36,Men,Canada,2024,Free Skate
+4,Junhwan CHA,Presentation,8.75,8.0,8.75,9.0,8.5,8.25,8.75,7.25,8.25,8.46,Men,Canada,2024,Free Skate
+5,Junhwan CHA,Skating Skills,8.5,8.25,8.5,8.75,8.75,8.0,9.0,8.0,8.0,8.39,Men,Canada,2024,Free Skate
+6,Sota YAMAMOTO,Composition,5.75,8.0,8.0,6.75,7.75,8.25,8.25,7.5,8.5,7.79,Men,Canada,2024,Free Skate
+7,Sota YAMAMOTO,Presentation,6.0,8.0,8.25,7.75,7.75,8.0,8.25,8.25,8.5,8.04,Men,Canada,2024,Free Skate
+8,Sota YAMAMOTO,Skating Skills,8.0,8.25,8.5,8.5,8.25,8.25,8.5,8.5,8.25,8.36,Men,Canada,2024,Free Skate
+9,Shun SATO,Composition,6.75,8.25,8.25,6.75,8.25,8.0,8.0,7.0,8.75,7.79,Men,Canada,2024,Free Skate
+10,Shun SATO,Presentation,7.0,8.5,8.0,6.75,7.75,7.75,7.75,7.25,8.25,7.68,Men,Canada,2024,Free Skate
+11,Shun SATO,Skating Skills,7.75,8.5,8.25,8.25,8.25,8.0,8.5,7.75,8.25,8.18,Men,Canada,2024,Free Skate
+12,Gabriele FRANGIPANI,Composition,7.0,7.5,6.75,7.25,7.75,7.5,7.25,7.25,7.25,7.29,Men,Canada,2024,Free Skate
+13,Gabriele FRANGIPANI,Presentation,7.25,7.5,7.25,7.75,7.25,7.75,7.5,7.25,7.5,7.43,Men,Canada,2024,Free Skate
+14,Gabriele FRANGIPANI,Skating Skills,7.0,7.25,6.75,7.5,7.25,7.5,7.25,7.5,7.0,7.25,Men,Canada,2024,Free Skate
+15,Aleksa RAKIC,Composition,6.75,7.0,7.5,6.75,7.75,7.25,7.5,6.75,8.0,7.21,Men,Canada,2024,Free Skate
+16,Aleksa RAKIC,Presentation,6.75,7.25,7.5,7.25,7.0,7.5,7.75,7.25,7.75,7.36,Men,Canada,2024,Free Skate
+17,Aleksa RAKIC,Skating Skills,6.5,7.25,7.0,7.0,7.25,7.0,7.25,7.0,7.5,7.11,Men,Canada,2024,Free Skate
+18,Vladimir LITVINTSEV,Composition,5.75,7.0,6.25,4.75,7.0,7.0,5.75,6.25,6.75,6.39,Men,Canada,2024,Free Skate
+19,Vladimir LITVINTSEV,Presentation,6.25,7.0,6.5,5.75,7.25,6.75,6.25,7.25,7.25,6.75,Men,Canada,2024,Free Skate
+20,Vladimir LITVINTSEV,Skating Skills,6.5,7.25,7.0,6.5,7.25,6.75,7.25,7.0,7.5,7.0,Men,Canada,2024,Free Skate
+21,Mark GORODNITSKY,Composition,6.75,7.25,6.5,5.75,7.25,6.75,6.75,6.25,7.5,6.79,Men,Canada,2024,Free Skate
+22,Mark GORODNITSKY,Presentation,6.75,7.0,6.75,6.5,7.5,6.75,7.0,6.75,7.25,6.89,Men,Canada,2024,Free Skate
+23,Mark GORODNITSKY,Skating Skills,6.75,7.25,7.25,7.0,7.25,6.5,6.75,6.75,7.25,7.0,Men,Canada,2024,Free Skate
+24,Jason BROWN,Composition,8.5,8.5,8.75,8.0,8.25,8.75,8.75,7.25,8.5,8.46,Men,Canada,2024,Free Skate
+25,Jason BROWN,Presentation,8.5,8.5,8.75,8.5,7.25,8.5,8.0,8.5,8.0,8.36,Men,Canada,2024,Free Skate
+26,Jason BROWN,Skating Skills,8.0,8.25,8.75,8.5,7.75,8.75,8.25,9.0,7.75,8.32,Men,Canada,2024,Free Skate
+27,Stephen GOGOLEV,Composition,4.75,7.75,7.0,7.5,7.25,7.25,7.5,6.25,7.25,7.14,Men,Canada,2024,Free Skate
+28,Stephen GOGOLEV,Presentation,5.0,7.5,6.75,6.75,7.0,7.25,7.25,6.5,7.0,6.93,Men,Canada,2024,Free Skate
+29,Stephen GOGOLEV,Skating Skills,6.75,7.5,7.5,7.25,7.0,7.0,7.75,6.75,7.5,7.21,Men,Canada,2024,Free Skate
+30,Luc ECONOMIDES,Composition,7.5,7.25,7.25,6.5,7.5,7.5,7.75,7.5,7.5,7.43,Men,Canada,2024,Free Skate
+31,Luc ECONOMIDES,Presentation,7.5,7.5,7.75,7.5,7.0,7.75,8.25,7.5,7.25,7.54,Men,Canada,2024,Free Skate
+32,Luc ECONOMIDES,Skating Skills,6.75,7.0,7.5,7.25,7.0,7.5,7.75,7.25,7.0,7.21,Men,Canada,2024,Free Skate
+0,Rino MATSUIKE,Composition,8.25,7.5,7.5,8.0,8.25,8.25,8.25,6.75,8.0,7.96,Women,Canada,2024,Free Skate
+1,Rino MATSUIKE,Presentation,8.5,8.0,8.0,8.0,8.0,7.75,8.5,7.5,9.0,8.11,Women,Canada,2024,Free Skate
+2,Rino MATSUIKE,Skating Skills,8.5,8.25,7.75,8.25,8.5,8.5,8.5,7.75,8.5,8.32,Women,Canada,2024,Free Skate
+3,Kaori SAKAMOTO,Composition,8.5,8.25,8.0,8.75,8.5,8.75,8.5,8.25,8.5,8.46,Women,Canada,2024,Free Skate
+4,Kaori SAKAMOTO,Presentation,8.25,7.75,7.75,8.5,8.0,7.75,8.5,8.5,8.25,8.14,Women,Canada,2024,Free Skate
+5,Kaori SAKAMOTO,Skating Skills,8.75,8.25,8.5,9.0,8.5,8.5,8.75,8.75,8.5,8.61,Women,Canada,2024,Free Skate
+6,Hana YOSHIDA,Composition,8.25,7.5,7.75,8.25,7.75,6.75,8.25,7.25,7.5,7.75,Women,Canada,2024,Free Skate
+7,Hana YOSHIDA,Presentation,8.0,7.25,8.25,8.25,8.0,7.0,8.0,7.25,7.75,7.79,Women,Canada,2024,Free Skate
+8,Hana YOSHIDA,Skating Skills,8.5,8.25,8.0,8.25,8.5,7.75,8.25,7.75,8.5,8.21,Women,Canada,2024,Free Skate
+9,Madeline SCHIZAS,Composition,8.0,7.0,6.5,7.5,7.5,7.25,7.5,7.5,6.75,7.29,Women,Canada,2024,Free Skate
+10,Madeline SCHIZAS,Presentation,8.25,7.0,7.5,7.25,8.0,7.5,7.25,7.25,7.5,7.46,Women,Canada,2024,Free Skate
+11,Madeline SCHIZAS,Skating Skills,8.0,8.25,7.0,7.75,7.75,7.25,7.5,7.25,7.25,7.54,Women,Canada,2024,Free Skate
+12,Kimmy REPOND,Composition,7.75,7.5,7.5,7.75,8.0,7.5,7.5,7.75,7.0,7.61,Women,Canada,2024,Free Skate
+13,Kimmy REPOND,Presentation,8.0,7.5,7.75,8.25,8.25,7.25,8.0,8.25,7.5,7.89,Women,Canada,2024,Free Skate
+14,Kimmy REPOND,Skating Skills,7.75,7.5,8.0,8.0,8.5,7.0,8.0,7.75,8.0,7.86,Women,Canada,2024,Free Skate
+15,Elyce LIN-GRACEY,Composition,7.5,7.0,7.5,7.75,7.25,7.25,7.25,7.25,8.0,7.39,Women,Canada,2024,Free Skate
+16,Elyce LIN-GRACEY,Presentation,7.75,7.25,7.25,7.5,7.0,6.75,7.0,7.25,8.0,7.29,Women,Canada,2024,Free Skate
+17,Elyce LIN-GRACEY,Skating Skills,8.25,7.25,7.5,7.5,7.5,7.5,7.75,7.25,7.5,7.5,Women,Canada,2024,Free Skate
+18,Alysa LIU,Composition,7.75,8.75,7.0,7.5,7.5,7.25,7.5,7.5,7.5,7.5,Women,Canada,2024,Free Skate
+19,Alysa LIU,Presentation,7.5,8.5,7.25,7.5,8.0,7.0,7.75,8.0,7.75,7.68,Women,Canada,2024,Free Skate
+20,Alysa LIU,Skating Skills,8.25,8.25,7.0,7.5,7.0,7.0,7.75,8.0,7.25,7.54,Women,Canada,2024,Free Skate
+21,Ekaterina KURAKOVA,Composition,6.5,7.0,6.5,7.25,6.75,7.5,7.0,6.25,7.0,6.86,Women,Canada,2024,Free Skate
+22,Ekaterina KURAKOVA,Presentation,7.25,7.25,7.5,7.25,7.5,7.25,7.5,7.0,7.5,7.36,Women,Canada,2024,Free Skate
+23,Ekaterina KURAKOVA,Skating Skills,6.75,6.75,6.75,7.0,6.5,7.75,7.25,7.25,6.75,6.93,Women,Canada,2024,Free Skate
+24,Sara-Maude DUPUIS,Composition,6.75,7.25,6.25,7.0,6.5,6.5,6.75,6.5,5.25,6.61,Women,Canada,2024,Free Skate
+25,Sara-Maude DUPUIS,Presentation,6.5,7.25,6.5,6.75,6.75,6.0,7.25,7.25,6.0,6.71,Women,Canada,2024,Free Skate
+26,Sara-Maude DUPUIS,Skating Skills,6.75,7.5,6.75,7.25,6.5,5.5,6.75,6.75,5.75,6.64,Women,Canada,2024,Free Skate
+27,Kaiya RUITER,Composition,6.75,6.75,6.25,7.0,6.75,6.25,5.75,7.0,6.0,6.54,Women,Canada,2024,Free Skate
+28,Kaiya RUITER,Presentation,7.25,7.25,7.25,6.75,7.25,6.25,6.25,7.0,6.75,6.93,Women,Canada,2024,Free Skate
+29,Kaiya RUITER,Skating Skills,7.0,6.75,6.75,7.0,6.75,6.75,6.0,6.75,6.75,6.79,Women,Canada,2024,Free Skate
+30,Seoyeong WI,Composition,6.5,5.75,5.0,6.75,5.75,5.75,5.75,5.75,4.5,5.75,Women,Canada,2024,Free Skate
+31,Seoyeong WI,Presentation,6.5,5.0,5.5,6.25,4.75,5.0,5.5,6.0,4.75,5.43,Women,Canada,2024,Free Skate
+32,Seoyeong WI,Skating Skills,7.0,6.75,6.5,6.5,6.75,6.5,6.25,6.75,6.5,6.61,Women,Canada,2024,Free Skate
+33,Yelim KIM,Composition,6.25,6.25,5.75,7.0,5.75,6.75,5.5,6.5,4.5,6.11,Women,Canada,2024,Free Skate
+34,Yelim KIM,Presentation,5.75,6.25,5.5,6.5,6.0,5.0,5.75,6.0,5.0,5.75,Women,Canada,2024,Free Skate
+35,Yelim KIM,Skating Skills,6.5,5.75,6.5,7.0,7.0,6.25,6.25,7.5,6.75,6.61,Women,Canada,2024,Free Skate
+0,Adam SIAO HIM FA,Composition,7.25,8.5,8.25,8.75,8.25,8.0,7.75,8.75,8.75,8.32,Men,France,2024,Free Skate
+1,Adam SIAO HIM FA,Presentation,7.5,8.25,8.5,8.5,8.5,8.25,8.25,8.75,8.5,8.39,Men,France,2024,Free Skate
+2,Adam SIAO HIM FA,Skating Skills,7.25,8.25,8.5,8.25,8.75,7.75,7.75,8.75,8.25,8.21,Men,France,2024,Free Skate
+3,Nikolaj MEMOLA,Composition,6.5,7.25,7.5,7.25,6.5,7.75,6.0,8.0,8.0,7.25,Men,France,2024,Free Skate
+4,Nikolaj MEMOLA,Presentation,6.75,7.75,7.75,7.75,7.0,8.0,7.75,8.0,8.25,7.71,Men,France,2024,Free Skate
+5,Nikolaj MEMOLA,Skating Skills,7.25,7.75,7.75,7.0,7.5,7.5,7.25,7.75,8.25,7.54,Men,France,2024,Free Skate
+6,Koshiro SHIMADA,Composition,7.75,7.25,7.25,7.5,7.75,8.25,8.25,8.25,8.25,7.86,Men,France,2024,Free Skate
+7,Koshiro SHIMADA,Presentation,7.5,7.25,7.25,7.0,8.25,8.25,8.0,8.0,8.0,7.75,Men,France,2024,Free Skate
+8,Koshiro SHIMADA,Skating Skills,7.75,7.5,7.5,7.5,8.0,8.5,8.0,8.0,8.25,7.86,Men,France,2024,Free Skate
+9,Andrew TORGASHEV,Composition,7.5,7.25,7.25,7.5,7.75,7.75,6.75,8.25,8.5,7.61,Men,France,2024,Free Skate
+10,Andrew TORGASHEV,Presentation,7.5,7.5,7.25,7.25,7.5,8.0,7.5,8.25,8.75,7.64,Men,France,2024,Free Skate
+11,Andrew TORGASHEV,Skating Skills,7.75,7.5,7.75,7.5,8.0,8.0,8.25,8.25,8.5,7.93,Men,France,2024,Free Skate
+12,Mikhail SHAIDOROV,Composition,7.5,7.75,7.25,7.75,6.75,7.5,6.25,8.25,8.0,7.5,Men,France,2024,Free Skate
+13,Mikhail SHAIDOROV,Presentation,7.5,7.75,7.5,7.25,7.25,7.25,6.75,8.0,7.75,7.46,Men,France,2024,Free Skate
+14,Mikhail SHAIDOROV,Skating Skills,7.25,7.5,7.5,7.5,7.5,7.75,7.25,8.25,8.0,7.57,Men,France,2024,Free Skate
+15,Kazuki TOMONO,Composition,8.0,7.5,8.0,7.5,7.75,7.75,7.75,8.25,8.5,7.86,Men,France,2024,Free Skate
+16,Kazuki TOMONO,Presentation,8.0,7.5,8.25,7.0,7.25,8.0,7.75,8.5,8.25,7.86,Men,France,2024,Free Skate
+17,Kazuki TOMONO,Skating Skills,7.75,7.75,8.25,7.75,8.25,8.25,7.75,8.25,8.5,8.04,Men,France,2024,Free Skate
+18,Aleksandr SELEVKO,Composition,8.0,7.75,7.5,7.25,8.25,8.25,8.5,8.5,8.5,8.11,Men,France,2024,Free Skate
+19,Aleksandr SELEVKO,Presentation,7.75,8.0,7.75,7.5,8.0,8.25,8.5,8.5,8.5,8.11,Men,France,2024,Free Skate
+20,Aleksandr SELEVKO,Skating Skills,8.0,8.0,7.75,7.5,8.0,7.75,7.75,8.25,8.25,7.93,Men,France,2024,Free Skate
+21,Luc ECONOMIDES,Composition,7.25,7.5,7.0,7.5,6.5,7.25,6.5,7.5,7.75,7.21,Men,France,2024,Free Skate
+22,Luc ECONOMIDES,Presentation,7.5,7.75,7.0,7.75,7.25,7.5,6.25,7.75,7.0,7.39,Men,France,2024,Free Skate
+23,Luc ECONOMIDES,Skating Skills,7.25,7.75,7.5,7.5,6.75,7.5,6.0,7.5,7.5,7.36,Men,France,2024,Free Skate
+24,Lukas BRITSCHGI,Composition,7.5,7.25,7.5,7.5,7.75,7.5,7.0,8.25,7.75,7.54,Men,France,2024,Free Skate
+25,Lukas BRITSCHGI,Presentation,7.5,7.25,7.5,7.25,7.5,7.5,7.5,7.75,7.25,7.43,Men,France,2024,Free Skate
+26,Lukas BRITSCHGI,Skating Skills,7.5,7.5,7.5,7.25,7.75,7.75,7.5,8.25,8.0,7.64,Men,France,2024,Free Skate
+27,Francois PITOT,Composition,7.25,7.25,6.5,7.0,7.0,6.5,6.25,6.75,7.0,6.86,Men,France,2024,Free Skate
+28,Francois PITOT,Presentation,7.5,7.5,6.5,7.0,7.5,6.25,6.75,7.0,6.75,7.0,Men,France,2024,Free Skate
+29,Francois PITOT,Skating Skills,7.25,7.25,6.75,7.5,7.25,6.5,6.75,7.25,6.75,7.04,Men,France,2024,Free Skate
+30,Boyang JIN,Composition,6.75,6.75,7.0,7.25,7.5,7.5,6.25,7.5,7.5,7.18,Men,France,2024,Free Skate
+31,Boyang JIN,Presentation,6.75,7.25,7.0,7.5,6.75,7.5,6.5,7.5,7.5,7.18,Men,France,2024,Free Skate
+32,Boyang JIN,Skating Skills,7.0,7.75,7.5,7.75,7.75,7.75,7.5,7.75,7.75,7.68,Men,France,2024,Free Skate
+33,Camden PULKINEN,Composition,7.0,7.25,6.75,6.75,6.75,6.75,6.5,7.25,7.25,6.93,Men,France,2024,Free Skate
+34,Camden PULKINEN,Presentation,6.75,7.0,6.75,7.0,6.5,6.25,7.25,7.0,6.75,6.82,Men,France,2024,Free Skate
+35,Camden PULKINEN,Skating Skills,7.25,7.5,7.0,7.5,7.5,6.75,7.0,7.5,7.25,7.29,Men,France,2024,Free Skate
+0,Wakaba HIGUCHI,Composition,8.5,8.5,8.25,8.0,8.25,8.5,8.25,8.5,9.0,8.39,Women,France,2024,Free Skate
+1,Wakaba HIGUCHI,Presentation,8.75,8.75,8.0,8.5,8.5,8.75,8.5,8.5,9.0,8.61,Women,France,2024,Free Skate
+2,Wakaba HIGUCHI,Skating Skills,8.75,8.75,8.0,8.75,8.5,8.5,8.75,8.75,9.25,8.68,Women,France,2024,Free Skate
+3,Rion SUMIYOSHI,Composition,8.0,8.5,8.0,8.25,8.0,8.25,8.25,8.75,8.5,8.25,Women,France,2024,Free Skate
+4,Rion SUMIYOSHI,Presentation,8.0,8.5,8.0,8.0,7.75,8.0,8.75,8.75,8.5,8.25,Women,France,2024,Free Skate
+5,Rion SUMIYOSHI,Skating Skills,8.25,8.25,7.75,8.5,8.0,8.25,8.5,8.5,9.0,8.32,Women,France,2024,Free Skate
+6,Amber GLENN,Composition,8.5,8.25,8.5,7.75,8.5,8.25,8.5,8.25,9.0,8.39,Women,France,2024,Free Skate
+7,Amber GLENN,Presentation,8.25,8.25,8.5,7.75,8.0,8.0,8.75,8.25,8.75,8.29,Women,France,2024,Free Skate
+8,Amber GLENN,Skating Skills,8.75,8.75,8.5,8.25,8.0,8.25,8.75,8.5,9.0,8.54,Women,France,2024,Free Skate
+9,Sarah EVERHARDT,Composition,8.25,8.25,7.75,7.25,8.25,8.0,7.5,7.75,7.0,7.82,Women,France,2024,Free Skate
+10,Sarah EVERHARDT,Presentation,8.0,8.0,7.75,7.0,7.25,7.75,8.0,7.75,7.25,7.68,Women,France,2024,Free Skate
+11,Sarah EVERHARDT,Skating Skills,8.25,7.75,7.75,8.0,7.75,7.75,7.5,7.5,7.5,7.71,Women,France,2024,Free Skate
+12,Chaeyeon KIM,Composition,8.5,8.0,8.5,8.25,8.25,8.0,8.75,8.75,9.0,8.43,Women,France,2024,Free Skate
+13,Chaeyeon KIM,Presentation,8.25,7.75,8.25,7.75,8.0,8.25,8.5,8.75,9.0,8.25,Women,France,2024,Free Skate
+14,Chaeyeon KIM,Skating Skills,8.5,7.75,8.25,8.5,8.5,8.0,8.75,8.5,9.25,8.43,Women,France,2024,Free Skate
+15,Nina PINZARRONE,Composition,8.25,8.25,7.5,7.75,8.5,7.75,8.5,8.0,8.25,8.11,Women,France,2024,Free Skate
+16,Nina PINZARRONE,Presentation,7.75,8.25,7.5,7.25,8.25,7.75,8.25,8.25,8.0,7.96,Women,France,2024,Free Skate
+17,Nina PINZARRONE,Skating Skills,8.0,8.0,7.5,7.75,7.75,7.5,7.75,7.5,8.5,7.75,Women,France,2024,Free Skate
+18,Anastasiia GUBANOVA,Composition,7.25,7.5,6.75,7.25,8.25,7.5,6.75,6.75,7.5,7.21,Women,France,2024,Free Skate
+19,Anastasiia GUBANOVA,Presentation,7.0,7.5,6.75,7.25,7.75,7.5,7.25,7.0,7.25,7.25,Women,France,2024,Free Skate
+20,Anastasiia GUBANOVA,Skating Skills,7.5,7.25,6.75,7.75,7.5,7.25,6.75,6.5,7.75,7.25,Women,France,2024,Free Skate
+21,Mai MIHARA,Composition,7.5,8.0,7.5,7.25,7.75,8.0,7.5,6.75,7.0,7.5,Women,France,2024,Free Skate
+22,Mai MIHARA,Presentation,7.75,7.75,7.25,7.5,7.5,7.5,7.25,7.25,7.25,7.43,Women,France,2024,Free Skate
+23,Mai MIHARA,Skating Skills,7.75,7.75,7.5,7.5,8.0,7.75,7.75,7.5,8.0,7.71,Women,France,2024,Free Skate
+24,Livia KAISER,Composition,7.25,6.75,6.75,6.75,6.0,7.0,6.5,6.75,7.25,6.82,Women,France,2024,Free Skate
+25,Livia KAISER,Presentation,7.25,6.75,6.25,6.5,6.0,6.5,6.25,6.5,6.5,6.46,Women,France,2024,Free Skate
+26,Livia KAISER,Skating Skills,7.0,7.0,7.0,7.25,6.5,6.75,7.0,6.5,7.0,6.89,Women,France,2024,Free Skate
+27,Lorine SCHILD,Composition,6.25,7.0,6.5,6.75,6.75,7.25,6.5,7.25,6.75,6.79,Women,France,2024,Free Skate
+28,Lorine SCHILD,Presentation,6.25,7.25,6.0,6.5,6.25,7.0,6.25,7.0,7.5,6.64,Women,France,2024,Free Skate
+29,Lorine SCHILD,Skating Skills,6.5,7.0,6.25,7.0,7.0,7.0,6.75,6.5,7.5,6.82,Women,France,2024,Free Skate
+30,Lea SERNA,Composition,6.5,6.75,6.25,7.0,5.75,7.0,7.0,7.0,6.75,6.75,Women,France,2024,Free Skate
+31,Lea SERNA,Presentation,6.75,7.25,6.0,6.5,6.25,6.75,7.25,7.25,7.25,6.86,Women,France,2024,Free Skate
+32,Lea SERNA,Skating Skills,6.75,6.75,6.25,7.0,6.5,6.5,6.75,6.75,7.0,6.71,Women,France,2024,Free Skate
+33,Clemence MAYINDU,Composition,5.25,6.25,5.5,5.0,5.0,5.75,4.5,4.75,6.5,5.36,Women,France,2024,Free Skate
+34,Clemence MAYINDU,Presentation,5.0,6.25,5.0,4.75,5.5,5.5,4.25,4.75,5.75,5.18,Women,France,2024,Free Skate
+35,Clemence MAYINDU,Skating Skills,6.75,6.5,5.25,5.5,6.0,5.5,4.75,5.0,6.0,5.68,Women,France,2024,Free Skate
+0,Yuma KAGIYAMA,Composition,9.25,8.75,9.0,8.75,8.75,8.75,8.75,9.0,9.25,8.89,Men,Japan,2024,Free Skate
+1,Yuma KAGIYAMA,Presentation,9.25,9.0,9.25,8.75,8.75,8.75,9.25,9.25,9.0,9.04,Men,Japan,2024,Free Skate
+2,Yuma KAGIYAMA,Skating Skills,9.25,8.75,9.25,9.25,8.75,9.0,9.25,9.25,9.25,9.14,Men,Japan,2024,Free Skate
+3,Daniel GRASSL,Composition,8.0,8.0,8.25,7.75,7.25,8.75,8.5,7.0,8.5,8.04,Men,Japan,2024,Free Skate
+4,Daniel GRASSL,Presentation,8.25,8.0,8.25,7.75,7.5,8.5,8.25,7.5,8.25,8.04,Men,Japan,2024,Free Skate
+5,Daniel GRASSL,Skating Skills,8.25,8.25,8.0,7.75,7.5,8.25,7.75,8.0,8.0,8.0,Men,Japan,2024,Free Skate
+6,Tatsuya TSUBOI,Composition,7.75,7.5,8.25,7.5,6.5,7.75,6.5,8.0,7.75,7.54,Men,Japan,2024,Free Skate
+7,Tatsuya TSUBOI,Presentation,8.0,7.5,8.0,7.5,7.25,7.75,7.25,7.75,7.5,7.61,Men,Japan,2024,Free Skate
+8,Tatsuya TSUBOI,Skating Skills,8.25,8.0,8.5,7.75,8.25,7.5,8.0,8.25,7.75,8.04,Men,Japan,2024,Free Skate
+9,Matteo RIZZO,Composition,8.25,7.5,8.25,8.25,8.0,8.5,8.25,7.5,8.5,8.14,Men,Japan,2024,Free Skate
+10,Matteo RIZZO,Presentation,8.25,7.75,8.5,8.5,8.25,8.75,8.75,8.0,8.25,8.36,Men,Japan,2024,Free Skate
+11,Matteo RIZZO,Skating Skills,8.0,7.75,8.25,8.0,8.0,8.5,8.5,8.5,8.25,8.21,Men,Japan,2024,Free Skate
+12,Andrew TORGASHEV,Composition,7.75,7.75,8.0,8.0,8.0,8.25,7.5,6.75,8.75,7.89,Men,Japan,2024,Free Skate
+13,Andrew TORGASHEV,Presentation,8.25,7.75,8.25,8.25,8.25,8.0,7.75,7.5,8.5,8.07,Men,Japan,2024,Free Skate
+14,Andrew TORGASHEV,Skating Skills,8.0,7.5,8.0,8.25,8.5,8.5,8.25,7.5,8.5,8.14,Men,Japan,2024,Free Skate
+15,Jason BROWN,Composition,8.5,8.5,8.5,8.25,9.0,8.75,8.5,8.5,9.5,8.61,Men,Japan,2024,Free Skate
+16,Jason BROWN,Presentation,8.5,8.75,8.25,8.5,9.25,8.5,9.0,8.0,9.25,8.68,Men,Japan,2024,Free Skate
+17,Jason BROWN,Skating Skills,8.25,8.5,8.5,8.5,9.25,8.75,8.75,8.25,9.0,8.61,Men,Japan,2024,Free Skate
+18,Tomoki HIWATASHI,Composition,7.25,7.0,7.0,7.0,7.0,7.0,5.5,6.25,6.25,6.79,Men,Japan,2024,Free Skate
+19,Tomoki HIWATASHI,Presentation,7.5,7.25,7.5,7.25,7.75,7.25,7.5,6.75,6.75,7.29,Men,Japan,2024,Free Skate
+20,Tomoki HIWATASHI,Skating Skills,7.25,7.25,7.25,7.0,7.5,7.25,7.0,7.0,7.25,7.18,Men,Japan,2024,Free Skate
+21,Vladimir LITVINTSEV,Composition,7.25,6.75,7.25,7.0,5.25,7.0,5.75,5.5,6.75,6.57,Men,Japan,2024,Free Skate
+22,Vladimir LITVINTSEV,Presentation,7.25,7.0,7.0,7.0,5.75,7.0,6.5,6.0,7.0,6.79,Men,Japan,2024,Free Skate
+23,Vladimir LITVINTSEV,Skating Skills,7.5,7.25,7.5,7.5,7.25,7.25,7.25,6.75,7.25,7.32,Men,Japan,2024,Free Skate
+24,Gabriele FRANGIPANI,Composition,7.75,7.5,7.75,7.25,7.5,8.25,7.25,6.75,7.5,7.5,Men,Japan,2024,Free Skate
+25,Gabriele FRANGIPANI,Presentation,7.75,7.5,7.25,7.0,6.5,8.0,7.5,7.5,7.0,7.36,Men,Japan,2024,Free Skate
+26,Gabriele FRANGIPANI,Skating Skills,7.5,7.25,7.5,7.5,6.75,8.0,7.75,7.25,7.25,7.43,Men,Japan,2024,Free Skate
+27,Mark GORODNITSKY,Composition,7.25,7.0,7.25,6.5,7.5,7.25,7.25,6.25,7.0,7.07,Men,Japan,2024,Free Skate
+28,Mark GORODNITSKY,Presentation,7.5,7.25,7.0,6.5,7.75,7.0,6.75,6.5,6.75,6.96,Men,Japan,2024,Free Skate
+29,Mark GORODNITSKY,Skating Skills,7.25,7.0,7.0,7.0,7.5,7.0,7.0,7.0,7.25,7.07,Men,Japan,2024,Free Skate
+30,Kao MIURA,Composition,7.75,7.75,7.75,7.5,7.5,8.5,7.25,7.75,8.25,7.75,Men,Japan,2024,Free Skate
+31,Kao MIURA,Presentation,8.0,7.75,7.5,7.25,6.75,8.0,6.75,7.25,8.0,7.5,Men,Japan,2024,Free Skate
+32,Kao MIURA,Skating Skills,8.0,8.0,8.25,8.0,7.75,8.5,8.75,8.5,8.5,8.25,Men,Japan,2024,Free Skate
+33,Juheon LIM,Composition,7.0,6.5,6.75,6.5,6.25,6.75,6.25,6.0,6.75,6.54,Men,Japan,2024,Free Skate
+34,Juheon LIM,Presentation,7.0,6.25,6.5,6.5,6.5,6.5,6.5,6.25,6.25,6.43,Men,Japan,2024,Free Skate
+35,Juheon LIM,Skating Skills,7.0,6.25,6.75,7.0,7.25,6.75,7.25,6.75,7.0,6.93,Men,Japan,2024,Free Skate
+0,Kaori SAKAMOTO,Composition,9.0,9.75,9.5,9.25,9.5,9.25,9.5,9.5,9.5,9.43,Women,Japan,2024,Free Skate
+1,Kaori SAKAMOTO,Presentation,9.25,9.75,9.5,9.75,9.5,9.5,9.75,9.5,9.5,9.57,Women,Japan,2024,Free Skate
+2,Kaori SAKAMOTO,Skating Skills,9.5,9.75,9.25,9.5,9.75,9.5,9.5,9.75,9.25,9.54,Women,Japan,2024,Free Skate
+3,Mone CHIBA,Composition,8.5,9.0,8.5,8.25,8.25,8.5,8.5,8.75,8.75,8.54,Women,Japan,2024,Free Skate
+4,Mone CHIBA,Presentation,8.75,8.75,8.75,8.75,8.5,8.75,8.25,9.0,9.0,8.75,Women,Japan,2024,Free Skate
+5,Mone CHIBA,Skating Skills,8.5,9.0,8.5,8.75,8.5,8.25,8.75,9.0,8.5,8.64,Women,Japan,2024,Free Skate
+6,Bradie TENNELL,Composition,8.25,8.25,8.25,7.5,8.0,8.25,8.5,8.75,8.75,8.32,Women,Japan,2024,Free Skate
+7,Bradie TENNELL,Presentation,7.75,8.25,8.25,8.25,8.25,8.25,8.5,8.5,8.0,8.25,Women,Japan,2024,Free Skate
+8,Bradie TENNELL,Skating Skills,8.0,8.5,8.0,8.5,8.25,8.0,8.25,8.5,8.25,8.25,Women,Japan,2024,Free Skate
+9,Alysa LIU,Composition,8.0,8.0,7.75,7.75,8.25,8.0,8.25,7.75,7.75,7.93,Women,Japan,2024,Free Skate
+10,Alysa LIU,Presentation,7.75,8.5,8.0,8.5,8.25,8.0,8.5,8.25,8.25,8.25,Women,Japan,2024,Free Skate
+11,Alysa LIU,Skating Skills,8.25,8.0,7.75,7.75,8.0,7.75,8.0,7.25,8.0,7.89,Women,Japan,2024,Free Skate
+12,Yuna AOKI,Composition,8.75,8.5,8.25,8.25,8.0,8.5,8.25,8.5,8.75,8.43,Women,Japan,2024,Free Skate
+13,Yuna AOKI,Presentation,9.0,8.25,8.25,8.5,8.25,8.25,7.75,8.25,8.75,8.36,Women,Japan,2024,Free Skate
+14,Yuna AOKI,Skating Skills,8.5,8.75,8.25,8.75,8.0,8.25,8.0,7.75,8.5,8.32,Women,Japan,2024,Free Skate
+15,Lara Naki GUTMANN,Composition,7.75,8.0,7.75,8.5,7.5,7.75,7.75,7.75,8.0,7.82,Women,Japan,2024,Free Skate
+16,Lara Naki GUTMANN,Presentation,7.5,8.0,7.75,8.25,7.75,7.75,7.5,7.25,8.0,7.75,Women,Japan,2024,Free Skate
+17,Lara Naki GUTMANN,Skating Skills,8.0,8.25,7.5,7.75,7.5,7.5,7.75,7.25,7.75,7.68,Women,Japan,2024,Free Skate
+18,Lindsay THORNGREN,Composition,7.75,6.5,7.25,8.0,7.5,7.75,7.25,7.0,7.5,7.43,Women,Japan,2024,Free Skate
+19,Lindsay THORNGREN,Presentation,7.25,7.0,7.25,7.75,7.25,7.5,6.5,6.75,7.25,7.18,Women,Japan,2024,Free Skate
+20,Lindsay THORNGREN,Skating Skills,7.5,6.75,7.25,7.25,7.25,7.25,7.25,7.5,7.5,7.32,Women,Japan,2024,Free Skate
+21,Niina PETROKINA,Composition,7.5,8.25,7.75,9.0,7.25,7.25,7.5,7.0,8.0,7.64,Women,Japan,2024,Free Skate
+22,Niina PETROKINA,Presentation,7.25,8.0,7.5,8.5,7.0,7.5,7.0,7.5,7.5,7.46,Women,Japan,2024,Free Skate
+23,Niina PETROKINA,Skating Skills,7.25,7.75,7.25,8.0,7.0,7.5,7.25,7.25,7.75,7.43,Women,Japan,2024,Free Skate
+24,Seoyeong WI,Composition,7.25,7.5,7.5,6.5,7.25,7.25,6.25,6.0,7.0,7.0,Women,Japan,2024,Free Skate
+25,Seoyeong WI,Presentation,6.75,7.25,7.25,5.75,7.0,7.5,5.5,5.75,6.75,6.64,Women,Japan,2024,Free Skate
+26,Seoyeong WI,Skating Skills,7.25,8.25,7.5,7.5,7.25,7.25,7.0,5.75,7.0,7.25,Women,Japan,2024,Free Skate
+27,Olga MIKUTINA,Composition,7.75,8.0,7.25,8.25,7.5,7.75,7.25,7.5,7.5,7.61,Women,Japan,2024,Free Skate
+28,Olga MIKUTINA,Presentation,7.0,8.25,7.0,8.0,7.0,7.5,7.5,7.5,7.5,7.43,Women,Japan,2024,Free Skate
+29,Olga MIKUTINA,Skating Skills,7.25,8.0,6.75,7.75,7.0,7.5,7.25,7.25,7.25,7.32,Women,Japan,2024,Free Skate
+30,Yelim KIM,Composition,7.0,7.0,8.0,7.25,6.75,7.5,6.75,6.5,7.25,7.07,Women,Japan,2024,Free Skate
+31,Yelim KIM,Presentation,6.75,6.75,7.5,7.75,6.25,7.25,6.25,6.25,7.5,6.89,Women,Japan,2024,Free Skate
+32,Yelim KIM,Skating Skills,7.25,7.0,8.0,8.0,6.5,7.5,7.5,6.0,7.75,7.36,Women,Japan,2024,Free Skate
+33,Ekaterina KURAKOVA,Composition,6.5,7.75,7.75,7.0,7.5,7.25,7.5,7.25,8.0,7.43,Women,Japan,2024,Free Skate
+34,Ekaterina KURAKOVA,Presentation,6.25,7.75,7.25,7.75,7.0,7.75,7.5,7.25,7.75,7.46,Women,Japan,2024,Free Skate
+35,Ekaterina KURAKOVA,Skating Skills,6.75,7.5,7.25,6.75,7.0,7.25,7.0,7.0,7.25,7.07,Women,Japan,2024,Free Skate
+0,Yuma KAGIYAMA,Composition,9.0,9.25,8.75,9.25,8.75,9.25,9.0,9.5,9.0,9.07,Men,GPFinal,2024,Free Skate
+1,Yuma KAGIYAMA,Presentation,9.25,9.0,9.0,9.0,8.5,9.25,9.25,9.25,8.75,9.07,Men,GPFinal,2024,Free Skate
+2,Yuma KAGIYAMA,Skating Skills,9.0,9.0,9.25,9.5,9.0,9.0,9.25,9.25,9.25,9.14,Men,GPFinal,2024,Free Skate
+3,Ilia MALININ,Composition,9.0,9.25,8.5,8.25,9.25,8.5,8.25,8.5,8.75,8.68,Men,GPFinal,2024,Free Skate
+4,Ilia MALININ,Presentation,8.75,9.25,9.0,8.0,8.75,8.25,8.5,8.25,8.75,8.61,Men,GPFinal,2024,Free Skate
+5,Ilia MALININ,Skating Skills,9.0,9.25,9.0,8.5,9.25,8.5,8.5,8.75,8.5,8.79,Men,GPFinal,2024,Free Skate
+6,Shun SATO,Composition,9.0,8.0,8.75,8.25,8.0,8.25,8.25,8.5,8.25,8.32,Men,GPFinal,2024,Free Skate
+7,Shun SATO,Presentation,8.75,7.75,8.25,8.25,7.5,7.75,8.25,8.25,8.0,8.07,Men,GPFinal,2024,Free Skate
+8,Shun SATO,Skating Skills,8.75,8.0,8.5,8.5,7.75,8.5,8.5,8.5,8.5,8.43,Men,GPFinal,2024,Free Skate
+9,Daniel GRASSL,Composition,7.75,8.25,7.25,8.25,8.0,8.0,8.25,7.75,8.0,8.0,Men,GPFinal,2024,Free Skate
+10,Daniel GRASSL,Presentation,7.25,8.0,7.5,8.0,8.5,8.25,8.5,8.0,7.75,8.0,Men,GPFinal,2024,Free Skate
+11,Daniel GRASSL,Skating Skills,7.5,8.0,7.5,8.0,8.25,8.0,8.0,8.0,7.75,7.89,Men,GPFinal,2024,Free Skate
+12,Kevin AYMOZ,Composition,8.25,8.25,8.5,8.0,9.5,8.75,8.75,9.25,8.75,8.64,Men,GPFinal,2024,Free Skate
+13,Kevin AYMOZ,Presentation,8.5,8.0,8.5,8.25,9.0,8.75,8.75,9.0,8.75,8.64,Men,GPFinal,2024,Free Skate
+14,Kevin AYMOZ,Skating Skills,8.0,8.25,8.75,8.25,9.25,8.5,8.5,9.0,8.75,8.57,Men,GPFinal,2024,Free Skate
+15,Mikhail SHAIDOROV,Composition,7.75,8.0,8.0,7.5,7.75,7.75,7.5,8.0,7.75,7.79,Men,GPFinal,2024,Free Skate
+16,Mikhail SHAIDOROV,Presentation,7.5,8.0,7.5,7.75,7.25,7.75,7.75,8.0,7.5,7.68,Men,GPFinal,2024,Free Skate
+17,Mikhail SHAIDOROV,Skating Skills,8.0,7.75,8.0,8.25,7.5,7.75,8.0,8.25,7.5,7.89,Men,GPFinal,2024,Free Skate
+0,Amber GLENN,Composition,7.75,8.5,8.5,8.5,8.5,8.25,9.0,9.0,9.0,8.61,Women,GPFinal,2024,Free Skate
+1,Amber GLENN,Presentation,8.25,8.5,8.75,8.75,8.25,8.5,8.75,9.0,9.0,8.64,Women,GPFinal,2024,Free Skate
+2,Amber GLENN,Skating Skills,8.25,8.75,8.75,8.75,8.5,8.5,8.75,9.0,8.75,8.68,Women,GPFinal,2024,Free Skate
+3,Mone CHIBA,Composition,8.5,8.5,8.5,8.5,8.25,8.25,8.75,8.5,8.75,8.5,Women,GPFinal,2024,Free Skate
+4,Mone CHIBA,Presentation,8.25,8.5,8.25,8.75,8.0,8.0,8.5,8.5,8.75,8.39,Women,GPFinal,2024,Free Skate
+5,Mone CHIBA,Skating Skills,8.75,8.5,8.5,8.5,8.0,8.25,8.75,8.5,8.75,8.54,Women,GPFinal,2024,Free Skate
+6,Kaori SAKAMOTO,Composition,8.0,9.0,9.0,8.75,9.25,9.0,8.5,9.0,9.5,8.93,Women,GPFinal,2024,Free Skate
+7,Kaori SAKAMOTO,Presentation,8.5,8.75,8.75,9.0,9.25,8.75,8.25,8.75,9.25,8.82,Women,GPFinal,2024,Free Skate
+8,Kaori SAKAMOTO,Skating Skills,8.5,8.75,9.0,8.75,9.0,9.0,8.5,9.0,9.0,8.86,Women,GPFinal,2024,Free Skate
+9,Wakaba HIGUCHI,Composition,8.0,8.25,8.0,8.25,8.5,8.5,8.0,8.5,8.0,8.21,Women,GPFinal,2024,Free Skate
+10,Wakaba HIGUCHI,Presentation,7.25,8.0,8.25,8.5,8.5,8.25,7.75,8.25,7.75,8.11,Women,GPFinal,2024,Free Skate
+11,Wakaba HIGUCHI,Skating Skills,8.25,8.25,8.25,8.25,8.25,8.5,8.25,8.5,8.25,8.29,Women,GPFinal,2024,Free Skate
+12,Hana YOSHIDA,Composition,7.0,7.75,8.25,7.75,8.25,7.5,8.75,8.0,8.0,7.93,Women,GPFinal,2024,Free Skate
+13,Hana YOSHIDA,Presentation,7.25,8.0,8.0,8.0,8.0,7.75,8.5,8.0,8.0,7.96,Women,GPFinal,2024,Free Skate
+14,Hana YOSHIDA,Skating Skills,7.75,8.0,8.25,8.0,7.75,8.0,8.5,8.25,8.5,8.11,Women,GPFinal,2024,Free Skate
+15,Rino MATSUIKE,Composition,7.75,8.0,8.25,7.5,8.25,7.5,8.25,7.75,8.75,7.96,Women,GPFinal,2024,Free Skate
+16,Rino MATSUIKE,Presentation,8.25,8.25,8.25,7.75,8.0,7.75,8.0,7.5,8.25,8.04,Women,GPFinal,2024,Free Skate
+17,Rino MATSUIKE,Skating Skills,8.0,8.0,8.75,7.75,8.25,8.0,8.0,8.0,8.25,8.07,Women,GPFinal,2024,Free Skate

@@ -1,0 +1,70 @@
+Skater,Component,J1,J2,J3,J4,J5,J6,J7,J8,J9,Panel_Avg
+SHAIDOROV Mikhail,Composition,8.25,8.0,8.5,8.0,8.5,8.75,8.25,8.75,8.0,8.32
+SHAIDOROV Mikhail,Presentation,8.5,8.5,8.25,8.0,8.75,8.5,8.25,8.5,8.25,8.39
+SHAIDOROV Mikhail,Skating Skills,8.5,8.75,8.5,8.25,8.75,8.5,8.0,8.25,8.75,8.5
+GOGOLEV Stephen,Composition,8.5,8.25,7.25,8.25,8.5,8.25,8.5,8.25,8.75,8.36
+GOGOLEV Stephen,Presentation,8.25,8.5,7.5,8.25,9.0,8.0,8.25,7.75,8.75,8.25
+GOGOLEV Stephen,Skating Skills,8.5,8.5,7.5,8.0,8.5,8.5,8.25,8.25,8.5,8.36
+SATO Shun,Composition,8.75,8.5,8.75,8.0,8.0,8.5,7.75,8.75,8.0,8.36
+SATO Shun,Presentation,8.5,8.75,8.5,8.0,8.25,8.25,7.25,8.5,8.0,8.29
+SATO Shun,Skating Skills,8.75,9.25,8.75,8.75,8.5,8.5,8.75,8.75,8.5,8.68
+GUMENNIK Petr,Composition,8.25,8.25,7.5,8.5,8.0,7.75,8.0,8.5,8.5,8.18
+GUMENNIK Petr,Presentation,8.25,8.0,7.25,8.25,7.75,7.5,7.75,8.5,8.5,8.0
+GUMENNIK Petr,Skating Skills,8.0,8.0,7.5,8.25,8.0,8.25,7.5,8.25,8.75,8.04
+CHA Junhwan,Composition,8.75,8.0,8.5,8.75,8.5,8.5,9.0,9.0,9.0,8.71
+CHA Junhwan,Presentation,8.5,8.75,8.5,8.5,8.25,9.0,8.5,8.75,8.75,8.61
+CHA Junhwan,Skating Skills,8.75,8.75,8.75,9.0,8.75,8.5,9.0,9.25,8.75,8.82
+KAGIYAMA Yuma,Composition,8.75,8.5,9.25,8.75,8.5,8.5,8.75,8.75,8.75,8.68
+KAGIYAMA Yuma,Presentation,8.0,8.25,9.25,8.5,8.5,8.25,8.0,8.75,8.5,8.39
+KAGIYAMA Yuma,Skating Skills,8.5,8.5,9.25,8.75,8.75,8.75,8.75,8.75,8.75,8.71
+EGADZE Nika,Composition,8.5,7.75,7.5,7.75,7.75,8.0,8.5,8.5,8.5,8.11
+EGADZE Nika,Presentation,8.5,7.5,7.25,7.75,8.0,7.75,8.25,8.25,8.25,7.96
+EGADZE Nika,Skating Skills,8.25,7.75,7.5,8.0,8.25,7.5,7.5,8.25,8.5,7.93
+GRASSL Daniel,Composition,8.0,8.5,8.75,7.75,8.75,8.25,8.0,8.5,8.25,8.32
+GRASSL Daniel,Presentation,8.0,8.25,8.5,7.75,8.5,8.0,8.0,8.25,8.0,8.14
+GRASSL Daniel,Skating Skills,7.75,7.75,8.5,8.25,8.75,7.75,7.75,8.0,8.0,8.0
+TORGASHEV Andrew,Composition,8.5,7.75,8.25,8.5,8.75,8.0,8.0,8.5,8.5,8.32
+TORGASHEV Andrew,Presentation,8.75,8.0,8.5,8.5,8.5,8.5,8.0,8.75,8.75,8.5
+TORGASHEV Andrew,Skating Skills,8.5,8.25,8.25,8.5,8.5,8.5,8.5,8.25,8.25,8.39
+MIURA Kao,Composition,8.25,7.75,7.75,7.75,7.75,7.75,7.75,7.75,7.75,7.75
+MIURA Kao,Presentation,8.0,7.5,8.0,7.75,7.5,7.5,7.0,7.5,7.5,7.61
+MIURA Kao,Skating Skills,8.5,8.25,8.25,8.5,8.25,8.0,7.75,8.25,7.75,8.18
+AYMOZ Kevin,Composition,8.625,8.625,8.625,8.75,8.625,8.375,8.375,8.625,8.5,8.71
+AYMOZ Kevin,Presentation,8.25,8.125,8.625,8.25,8.375,8.625,8.0,8.125,8.375,8.57
+AYMOZ Kevin,Skating Skills,8.375,8.5,8.625,8.5,8.5,8.375,8.375,8.25,8.125,8.5
+BRITSCHGI Lukas,Composition,8.25,8.0,8.5,8.0,8.5,8.0,8.5,8.0,8.0,8.18
+BRITSCHGI Lukas,Presentation,8.25,7.75,8.5,8.0,8.25,8.25,8.25,7.5,8.0,8.11
+BRITSCHGI Lukas,Skating Skills,8.0,7.75,8.25,8.25,7.75,7.75,8.5,8.0,7.75,7.96
+RIZZO Matteo,Composition,8.25,8.25,8.5,8.75,8.25,8.0,8.25,8.25,8.5,8.32
+RIZZO Matteo,Presentation,8.5,8.0,8.5,8.5,8.5,8.25,8.0,7.75,8.25,8.29
+RIZZO Matteo,Skating Skills,8.25,8.0,8.5,8.5,8.25,8.0,8.0,8.25,8.0,8.18
+MALININ Ilia,Composition,8.25,8.0,8.5,8.5,8.0,8.25,7.75,8.25,8.5,8.25
+MALININ Ilia,Presentation,7.5,7.75,8.5,8.25,7.75,8.0,7.5,7.75,8.75,7.93
+MALININ Ilia,Skating Skills,8.5,8.0,8.5,8.5,7.75,8.5,8.25,8.25,8.75,8.36
+SELEVKO Aleksandr,Composition,8.25,7.5,7.5,7.75,7.5,7.5,8.25,7.5,8.0,7.71
+SELEVKO Aleksandr,Presentation,7.75,7.75,7.25,8.0,7.75,7.5,8.0,7.25,7.75,7.68
+SELEVKO Aleksandr,Skating Skills,8.25,7.5,7.75,8.0,8.0,8.0,8.25,7.75,8.0,7.96
+SAMOILOV Vladimir,Composition,7.25,6.5,7.0,7.5,7.75,7.25,7.75,7.25,7.25,7.32
+SAMOILOV Vladimir,Presentation,7.0,6.5,7.0,7.25,7.25,7.5,7.5,7.25,7.0,7.18
+SAMOILOV Vladimir,Skating Skills,7.25,6.75,7.25,7.5,7.5,7.75,7.5,7.75,7.25,7.43
+VASILJEVS Deniss,Composition,7.75,7.25,7.75,7.5,7.5,7.5,7.5,8.25,7.75,7.61
+VASILJEVS Deniss,Presentation,8.0,7.5,7.75,7.75,7.75,7.75,8.0,7.25,7.25,7.68
+VASILJEVS Deniss,Skating Skills,7.75,7.75,8.0,8.0,7.5,8.25,7.75,8.0,7.5,7.82
+CARRILLO Donovan,Composition,7.5,6.75,6.75,7.0,7.5,7.0,7.0,7.5,7.25,7.14
+CARRILLO Donovan,Presentation,7.5,7.25,7.0,6.75,8.0,7.75,7.25,7.25,7.25,7.32
+CARRILLO Donovan,Skating Skills,7.25,7.0,7.0,7.0,7.75,7.25,7.5,7.0,7.0,7.14
+JIN Boyang,Composition,8.0,6.75,7.0,7.25,7.75,6.75,6.25,7.75,7.5,7.25
+JIN Boyang,Presentation,7.75,6.5,6.75,7.0,7.5,7.0,6.75,7.25,7.25,7.07
+JIN Boyang,Skating Skills,8.0,6.75,7.25,7.75,7.5,7.5,7.25,7.5,7.75,7.5
+LI Yu-Hsiang,Composition,6.25,5.75,6.5,6.5,6.25,6.5,6.5,6.25,6.5,6.39
+LI Yu-Hsiang,Presentation,6.5,6.25,6.75,6.5,7.0,6.75,6.75,6.0,6.5,6.57
+LI Yu-Hsiang,Skating Skills,6.5,6.0,6.75,6.75,6.5,6.25,6.5,6.0,6.75,6.46
+NAUMOV Maxim,Composition,7.5,7.0,7.25,7.5,8.25,7.5,7.0,7.25,8.0,7.43
+NAUMOV Maxim,Presentation,7.75,7.0,7.25,7.5,8.0,7.5,7.25,7.25,7.5,7.43
+NAUMOV Maxim,Skating Skills,7.75,7.5,7.5,7.75,8.0,7.75,7.5,7.75,7.75,7.68
+MARSAK Kyrylo,Composition,7.25,7.0,6.75,7.5,7.5,7.5,7.5,7.25,7.5,7.36
+MARSAK Kyrylo,Presentation,7.25,6.5,7.25,7.25,7.25,7.25,7.5,7.0,7.25,7.21
+MARSAK Kyrylo,Skating Skills,7.5,7.0,7.25,7.75,7.5,8.0,7.75,7.0,7.5,7.46
+HAGARA Adam,Composition,6.0,5.75,6.5,6.25,6.5,6.75,7.25,6.5,6.75,6.46
+HAGARA Adam,Presentation,5.75,5.5,6.25,6.0,5.75,5.75,6.5,5.75,6.5,5.96
+HAGARA Adam,Skating Skills,6.25,6.0,6.25,6.25,6.25,6.25,6.75,6.0,6.5,6.25
