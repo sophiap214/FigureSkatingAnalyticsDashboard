@@ -3,7 +3,10 @@
 A data science project that scrapes, cleans, and analyzes competitive figure skating judging data from ISU Grand Prix events (2024/2025 season) and the 2026 Olympics, to explore how technical difficulty and execution quality relate to subjective (artistic) scoring, and to build a regression model that predicts element-level scores. This project was completed as a capstone project for Kappa Theta Pi Pre-Professional Fraternity at Northwestern University. 
  
 **[View the live dashboard](https://sophiap214.github.io/FigureSkatingAnalytics/)**
- 
+
+## Background
+As a data science major with an interest in sports analytics, I thought it would be fun to do a project on figure skating as the Winter Olympics 2026 were occurring at the time. I actually grew up figure skating, starting around 7 years old and stopping when I was around 12. Therefore, I loved watching the Winter Olympics because I not only knew how the sport was scored and evaluated, but I knew how difficult it was for these athletes to execute their routines. However, because of recent comments from the skaters themselves, I was curious to see if skating data showed any signs of bias from the judges.
+
 ## Project Overview
  
 Figure skating scores combine two components:
